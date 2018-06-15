@@ -1,0 +1,27 @@
+.pass{
+  background-color: green;
+}
+
+.average{
+  background-color: yellow;
+}
+
+.fail{
+  background-color: red;
+}
+
+body {
+  margin: 0 auto;
+  text-align: center;
+  width: 50%;
+  border: collapse;
+}
+
+table{
+  background-color: rgb(54, 111, 209);
+}
+
+.bold{
+  font-size: 100px;
+  font-weight: bold;
+}
